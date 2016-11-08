@@ -3,7 +3,7 @@
 #define max 100000
 
 int main(){
-    int n,i;
+    int i;
     FILE *fp;
     fp=freopen("write.txt","w",stdout);
     for(i=1;i<=max;i++){
