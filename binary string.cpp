@@ -15,7 +15,6 @@ void Binary(char a[10],int n){
 }
 
 int main(){
-    FILE *fp;
     int n;
     char a[10]={'\0'};
     cin >> n;
